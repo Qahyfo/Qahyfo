@@ -7,6 +7,7 @@ HTML + CSS (Sass and Less) <br />
 React.js + TS <br />
 
 linters (ESlint + Prettier) and distinct UI kits (Bootstrap and Tailwind) <br />
+Builders: Webpack
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/izao0"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/></a>
