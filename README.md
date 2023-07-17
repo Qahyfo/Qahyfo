@@ -4,10 +4,13 @@
 ### Technical Skills
 Main stack: 
 HTML + CSS (Sass and Less) <br />
-React.js + TS <br />
+CSS Frameworks: Material UI, Tailwind
+React.js, React-router and TS <br />
+Axios
 
 linters (ESlint + Prettier) and distinct UI kits (Bootstrap and Tailwind) <br />
 Builders: Webpack
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/izao0"><img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge"/></a>
