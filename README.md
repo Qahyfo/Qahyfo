@@ -4,9 +4,9 @@
 ### Technical Skills
 Main stack: 
 HTML + CSS (Sass and Less) <br />
-CSS Frameworks: Material UI, Tailwind
+CSS Frameworks: Material UI, Tailwind <br />
 React.js, React-router and TS <br />
-Axios
+Axios <br />
 
 linters (ESlint + Prettier) and distinct UI kits (Bootstrap and Tailwind) <br />
 Builders: Webpack
