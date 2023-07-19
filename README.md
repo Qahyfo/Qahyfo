@@ -7,6 +7,7 @@ HTML + CSS (Sass and Less) <br />
 CSS Frameworks: Material UI, Tailwind <br />
 React.js, React-router and TS <br />
 Axios <br />
+Jest <br />
 
 linters (ESlint + Prettier) and distinct UI kits (Bootstrap and Tailwind) <br />
 Builders: Webpack
